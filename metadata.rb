@@ -1,3 +1,4 @@
+name            "rails_apps"
 maintainer       "tlowrimore"
 maintainer_email "tlowrimore@coroutine.com"
 license          "Apache 2.0"
